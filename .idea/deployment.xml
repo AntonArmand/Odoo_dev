@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" serverName="Odoo_dev" remoteFilesAllowedToDisappearOnAutoupload="false">
+    <serverData>
+      <paths name="Odoo_dev">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/odoo-server/odoo" local="$PROJECT_DIR$" web="http://40.89.139.7:8069/" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>
